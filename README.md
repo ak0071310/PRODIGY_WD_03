@@ -2,7 +2,7 @@ TASK 3 : TIC-TAC-TOE WEB APPLICATION
 
 THEME : Tic-Tac-Toe Game
 
-WEBSITE: [https://ticktacktok.netlify.app/](https://ticktacktok.netlify.app/)
+WEBSITE: https://prodigy-wb-03-tictactoe.netlify.app
 
 DESCRIPTION:-
 
